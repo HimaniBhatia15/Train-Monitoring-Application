@@ -1,0 +1,3 @@
+Question:  Assume that you receive a feed in a “TrainDetails.txt” (you need to refer the flat file attached in the mail) from an external system and the file contains TrainType, Speed(KMPH), Energy(KWH). Note that each column/field is separated by delimiter ‘-’ as given in the file. Can you write a stand-alone java program to read the file and load/store into in-memory (do not use any database) and can you display below details upon user enters the train type as the input?
+(i)	Print the lowest speed for the train type or print ‘No details found’ for invalid train type.
+(ii)	Print the highest energy consumption and the speed details or print ‘No details found’ for invalid train type.
